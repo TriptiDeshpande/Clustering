@@ -14,7 +14,9 @@ Balance--Number of miles eligible for award travel
 Qual_mile--Number of miles counted as qualifying for Topflight status
 
 cc1_miles -- Number of miles earned with freq. flyer credit card in the past 12 months:
+
 cc2_miles -- Number of miles earned with Rewards credit card in the past 12 months:
+
 cc3_miles -- Number of miles earned with Small Business credit card in the past 12 months:
 
 1 = under 5,000
@@ -42,7 +44,11 @@ Award--whether that person had award flight (free flight) or not
 Perform Clustering(Hierarchical, Kmeans & DBSCAN) for the crime data and identify the number of clusters formed and draw inferences.
 
 Data Description:
+
 Murder -- Muder rates in different places of United States
+
 Assualt- Assualt rate in different places of United States
+
 UrbanPop - urban population in different places of United States
+
 Rape - Rape rate in different places of United States
